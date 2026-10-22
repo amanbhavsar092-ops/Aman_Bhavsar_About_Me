@@ -4,7 +4,7 @@
 
 I'm a senior at UGA's Terry College of Business with a focus on information security, IT project management, and AI in business. I build workflow automations, lead technical teams, and translate stakeholder requirements into reliable solutions. I'm seeking **IT consulting and IT audit** opportunities.
 
-📫 [Email](mailto:amanbhavsar092@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/amanbhavsar092) · 📄 [Resume (PDF)](https://github.com/amanbhavsar092/amanbhavsar092/blob/main/Aman_Bhavsar_Resume.pdf)
+📫 [Email](mailto:amanbhavsar092@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/amanbhavsar092) · 📄 [Resume (PDF)](https://github.com/amanbhavsar092-ops/amanbhavsar092-ops/blob/main/Aman_Bhavsar_Resume.pdf)
 
 ---
 
