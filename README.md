@@ -11,7 +11,7 @@ I'm a senior at UGA's Terry College of Business with a focus on information secu
 ## 🎓 Education
 
 **University of Georgia, Terry College of Business** (Athens, GA)
-B.B.A. in Management Information Systems, Information Security Emphasis | May 2027 | GPA 3.81/4.00 | Dean's List
+B.B.A. in Management Information Systems, Information Security Emphasis | May 2027 | GPA 3.81/4.00 | Dean's List |
 Minor in Consumer Economics · Certificates in Financial Technologies and AI in Business
 
 ---
